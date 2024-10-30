@@ -22,9 +22,9 @@ For this project, we’ll use the following parts:
 
 #### 3) ESP32 CAM Case Assembly
 - *STL files*:
-    - [[Top Model on Sketchfab](images/top.png)](https://sketchfab.com/3d-models/top-e2a87d0dc10746838a21e3a1ab0b27a4)
-    - [[Bottom Model on Sketchfab](images/bottom.png)](https://sketchfab.com/3d-models/bottom-4c11fc81c39643fda570e0b3a168bfb9)
-    - [[Mount Model on Sketchfab](images/mount.png)](https://sketchfab.com/3d-models/mount-275df1afe2474d00bc77dd61d4536d96)
+    - [![Top Model on Sketchfab](images/top.png)](https://sketchfab.com/3d-models/top-e2a87d0dc10746838a21e3a1ab0b27a4)
+    - [![Bottom Model on Sketchfab](images/bottom.png)](https://sketchfab.com/3d-models/bottom-4c11fc81c39643fda570e0b3a168bfb9)
+    - [![Mount Model on Sketchfab](images/mount.png)](https://sketchfab.com/3d-models/mount-275df1afe2474d00bc77dd61d4536d96)
 
 #### 4) ESP32 CAM Programming
 - **FTDI <=> ESP32 CAM Wiring**  
