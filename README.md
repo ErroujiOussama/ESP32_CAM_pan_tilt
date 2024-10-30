@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-#### TO DO
-- Add video links (English version)
-- Create an Arabic version of this blog
-
+# Pan Tilt ESP32 Cam Web Streaming
 #### Overview
 In this project, we’ll attach the ESP32-CAM to a pan and tilt stand with two SG90 servo motors. With a pan and tilt camera stand, you can move the camera up, down, to the left, and to the right—this is great for surveillance. The ESP32-CAM hosts a web server that shows video streaming and buttons to control the servo motors to move the camera.
 
